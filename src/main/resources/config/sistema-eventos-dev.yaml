@@ -1,0 +1,3 @@
+services:
+  notificacao:
+    url: ${SERVICO_NOTIFICACAO_URL:http://localhost:8081}
